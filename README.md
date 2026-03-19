@@ -31,3 +31,18 @@
 
 ---
 
+### 💻 Tech Stack
+<p align="">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Box_API-0061D5?style=for-the-badge&logo=box&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=davinci-resolve&logoColor=white" />
+</p>
+
+---
+### 📊 Activity Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nyanta0038&show_icons=true&theme=dark&hide_border=true" alt="Nyanta0038's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyanta0038&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+</p>
