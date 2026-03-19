@@ -1,4 +1,6 @@
-![Nyanta0038 Header](image_2.png)
+<p align="center">
+  <img src="banner.png" alt="Nyanta0038 Header" width="100%">
+</p>
 # Hi there, I'm Nyanta0038! 🐱🎬
 
 映像制作・放送システムエンジニアを本業としながら、PythonやJavaScriptを用いたツール開発を行っています。
