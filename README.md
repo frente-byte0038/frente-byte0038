@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="banner.png" alt="Nyanta0038 Header" width="100%">
+  <img src="banner.png" alt="frente-byte0038 Header" width="100%">
 </p>
-# Hi there, I'm Nyanta0038! 🐱🎬
+# Hi there, I'm frente-byte0038! 🐱🎬
 
 映像制作・放送システムエンジニアを本業としながら、PythonやJavaScriptを用いたツール開発を行っています。
 「クリエイティブ × テクノロジー」の交差点で、日常や業務を便利にするプロダクトを制作中です。
@@ -26,23 +26,20 @@
 ---
 
 ### 📊 GitHub Stats
-![Nyanta0038's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyanta0038&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyanta0038&layout=compact&theme=radical)
+![frente-byte0038's GitHub stats](https://github-readme-stats.vercel.app/api?username=frente-byte0038&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frente-byte0038&layout=compact&theme=radical)
 
 ---
 
 ### 💻 Tech Stack
-<p align="">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Box_API-0061D5?style=for-the-badge&logo=box&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=davinci-resolve&logoColor=white" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frente-byte0038&show_icons=true&theme=dark&hide_border=true" alt="frente-byte0038's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frente-byte0038&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
 ### 📊 Activity Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nyanta0038&show_icons=true&theme=dark&hide_border=true" alt="Nyanta0038's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyanta0038&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frente-byte0038&show_icons=true&theme=dark&hide_border=true" alt="frente-byte0038's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frente-byte0038&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
 </p>
