@@ -25,12 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=frente-byte0038&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frente-byte0038&layout=compact&theme=radical)
-
----
-
 ### 💻 Tech Stack
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=frente-byte0038&show_icons=true&theme=dark&hide_border=true" alt="frente-byte0038's GitHub Stats" />
