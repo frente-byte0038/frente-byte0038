@@ -26,7 +26,7 @@
 ---
 
 ### 📊 GitHub Stats
-![frente-byte0038's GitHub stats](https://github-readme-stats.vercel.app/api?username=frente-byte0038&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=frente-byte0038&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frente-byte0038&layout=compact&theme=radical)
 
 ---
