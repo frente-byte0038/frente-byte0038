@@ -24,16 +24,3 @@
 ![Box](https://img.shields.io/badge/-Box-0061D5?style=flat-square&logo=box&logoColor=white)
 
 ---
-
-### 💻 Tech Stack
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frente-byte0038&show_icons=true&theme=dark&hide_border=true" alt="frente-byte0038's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frente-byte0038&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
-### 📊 Activity Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frente-byte0038&show_icons=true&theme=dark&hide_border=true" alt="frente-byte0038's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frente-byte0038&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
-</p>
